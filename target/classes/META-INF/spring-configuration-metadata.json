@@ -1,0 +1,29 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.nissan.tutorial.configuration.BasicConfiguration",
+      "name": "basic",
+      "type": "com.nissan.tutorial.configuration.BasicConfiguration"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.nissan.tutorial.configuration.BasicConfiguration",
+      "name": "basic.message",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.nissan.tutorial.configuration.BasicConfiguration",
+      "defaultValue": 0,
+      "name": "basic.number",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.nissan.tutorial.configuration.BasicConfiguration",
+      "defaultValue": false,
+      "name": "basic.value",
+      "type": "java.lang.Boolean"
+    }
+  ]
+}
